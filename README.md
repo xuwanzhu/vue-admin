@@ -23,7 +23,7 @@ npm run build --report
 ![image](https://user-images.githubusercontent.com/77136167/181914684-471b0327-78d3-49f6-856e-3604741cc88d.png)
 
 
-
+---
 
 
 # 课程页
@@ -31,20 +31,20 @@ npm run build --report
 
 
 
-
+---
 
 # 名师页
 ![image](https://user-images.githubusercontent.com/77136167/181914731-d1e89ea4-b713-468e-8fe6-36dbbc5ecaa0.png)
 
 
-
+---
 
 
 # 文章页
 ![image](https://user-images.githubusercontent.com/77136167/181914777-5d2dada6-039c-4106-afa0-9ddd423cd198.png)
 
 
-
+---
 
 
 # 问答页
