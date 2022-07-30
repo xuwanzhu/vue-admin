@@ -1,3 +1,4 @@
+###相关命令
 ## Build Setup
 
 ```bash
@@ -7,7 +8,7 @@ git clone https://github.com/PanJiaChen/vue-admin-template.git
 # Install dependencies
 npm install
 
-# Serve with hot reload at localhost:9528
+# Serve with hot reload at localhost:9528  运行命令
 npm run dev
 
 # Build for production with minification
